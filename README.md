@@ -1,2 +1,2 @@
-# PyTorch-Practice-NoteBooks
-A collection of jupyter notebooks I've worked using PyTorch.
+# GAN-Practice-NoteBooks
+A collection of jupyter notebooks I've worked on GANs.

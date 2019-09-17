@@ -10,9 +10,6 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-!git clone https://github.com/harsha-20/Synthetic-Medical-Images.git
-
-
 
 from __future__ import division 
 import os
